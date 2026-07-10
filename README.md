@@ -6,7 +6,7 @@ PyTorch implementation of triangular consistency described in:
 [[`arXiv`](https://arxiv.org/abs/2606.19938)]
 
 <div align="center">
-  <img width="100%" alt="Triangular Consistency" src=".github/triangular.png">
+  <img width="100%" alt="Triangular Consistency" src="triangular.png">
 </div>
 
 
