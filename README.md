@@ -3,6 +3,7 @@
 PyTorch implementation of triangular consistency described in:
 
 **Triangular Consistency as A Universal Constraint For Learning Optical Flow**
+
 [[`arXiv`](https://arxiv.org/abs/2606.19938)]
 
 <div align="center">
