@@ -19,7 +19,7 @@ PyTorch implementation of triangular consistency described in:
 
 ## Supervised Optical Flow
 
-We applied the tri-flow method to the [RAFT](https://github.com/princeton-vl/raft) using a pre-trained model on the FlyingChairs and FlyingThings3D datasets and applying the augmentation method described in the paper for the rest of the training pipeline. The code implementation is present in the "Supervised" folder.
+We applied the tri-flow method to the [RAFT](https://github.com/princeton-vl/raft) using a pre-trained model on the **FlyingChairs** and **FlyingThings3D** datasets and applying the augmentation method described in the paper for the rest of the training pipeline. The code implementation is present in the **"Supervised"** folder.
 
 ## License
 
