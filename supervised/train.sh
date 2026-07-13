@@ -1,3 +1,7 @@
+#!/bin/bash
+mkdir -p checkpoints
+
+
 echo "====== start of raft-sintel ======"
 
 python -u train.py \
